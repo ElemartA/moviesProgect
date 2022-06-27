@@ -1,0 +1,12 @@
+.container {
+  display: block;
+  justify-content: center;
+  font-size: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: "Cormorant Garamond", serif;
+  flex-wrap: wrap;
+  .container__title{
+    font-weight: bold;
+  }
+}

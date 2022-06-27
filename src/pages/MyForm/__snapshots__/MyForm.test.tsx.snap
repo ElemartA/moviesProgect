@@ -1,0 +1,251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyForm INPUT EVENT 1`] = `
+<DocumentFragment>
+  <div
+    data-testid="formPage"
+  >
+    <div
+      class="wrap"
+    >
+      <form
+        class="form"
+      >
+        <label>
+          Имя:
+          <input
+            data-testid="name"
+            name="firstName"
+            placeholder="Имя"
+          />
+        </label>
+        <div
+          style="height: 40px; color: red;"
+        />
+        <label>
+          Фамилия:
+          <input
+            name="lastName"
+            placeholder="Фамилия"
+          />
+        </label>
+        <div
+          style="height: 40px; color: red;"
+        />
+        <label>
+          <input
+            data-testid="date"
+            name="date"
+            type="date"
+          />
+        </label>
+        <div
+          style="height: 40px; color: red;"
+        />
+        <label
+          for="country"
+        >
+          Страна:
+          <select
+            name="country"
+          >
+            <option>
+              Belarus
+            </option>
+            <option>
+              Russia
+            </option>
+            <option>
+              Ukraine
+            </option>
+          </select>
+          <div
+            style="height: 40px; color: red;"
+          />
+        </label>
+        <label>
+          Загрузите фото:
+          <input
+            name="file"
+            type="file"
+          />
+          <div
+            style="height: 40px; color: red;"
+          />
+        </label>
+        <div
+          class="checkbox"
+        >
+          <label
+            class="switch"
+          >
+            <input
+              name="checkbox"
+              type="checkbox"
+            />
+            <span
+              class="slider round"
+            />
+          </label>
+          <label
+            style="padding-left: 23px;"
+          >
+            не хочу/хочу получать уведомления об акциях
+          </label>
+        </div>
+        <div
+          class="check"
+        >
+          <input
+            class="check__input"
+            name="switch"
+            type="checkbox"
+          />
+          <label
+            class="check__label"
+          >
+            Я согласен на обработку данных
+          </label>
+        </div>
+        <input
+          class="submit"
+          disabled=""
+          type="submit"
+          value="Отправить"
+        />
+      </form>
+      <div
+        class="wrap"
+        data-testid="miniCard"
+      >
+        <div />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`MyForm renders MyForm component 1`] = `
+<DocumentFragment>
+  <div
+    data-testid="formPage"
+  >
+    <div
+      class="wrap"
+    >
+      <form
+        class="form"
+      >
+        <label>
+          Имя:
+          <input
+            data-testid="name"
+            name="firstName"
+            placeholder="Имя"
+          />
+        </label>
+        <div
+          style="height: 40px; color: red;"
+        />
+        <label>
+          Фамилия:
+          <input
+            name="lastName"
+            placeholder="Фамилия"
+          />
+        </label>
+        <div
+          style="height: 40px; color: red;"
+        />
+        <label>
+          <input
+            data-testid="date"
+            name="date"
+            type="date"
+          />
+        </label>
+        <div
+          style="height: 40px; color: red;"
+        />
+        <label
+          for="country"
+        >
+          Страна:
+          <select
+            name="country"
+          >
+            <option>
+              Belarus
+            </option>
+            <option>
+              Russia
+            </option>
+            <option>
+              Ukraine
+            </option>
+          </select>
+          <div
+            style="height: 40px; color: red;"
+          />
+        </label>
+        <label>
+          Загрузите фото:
+          <input
+            name="file"
+            type="file"
+          />
+          <div
+            style="height: 40px; color: red;"
+          />
+        </label>
+        <div
+          class="checkbox"
+        >
+          <label
+            class="switch"
+          >
+            <input
+              name="checkbox"
+              type="checkbox"
+            />
+            <span
+              class="slider round"
+            />
+          </label>
+          <label
+            style="padding-left: 23px;"
+          >
+            не хочу/хочу получать уведомления об акциях
+          </label>
+        </div>
+        <div
+          class="check"
+        >
+          <input
+            class="check__input"
+            name="switch"
+            type="checkbox"
+          />
+          <label
+            class="check__label"
+          >
+            Я согласен на обработку данных
+          </label>
+        </div>
+        <input
+          class="submit"
+          disabled=""
+          type="submit"
+          value="Отправить"
+        />
+      </form>
+      <div
+        class="wrap"
+        data-testid="miniCard"
+      >
+        <div />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

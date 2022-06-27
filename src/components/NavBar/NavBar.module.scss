@@ -1,0 +1,27 @@
+.header__nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100%;
+  margin-bottom: 70px;
+  padding: 0;
+  .header__list {
+    max-width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    .header__link {
+      margin-right: 30px;
+      text-decoration: none;
+      font-size: 24px;
+      color: black;
+      font-weight: bold;
+    }
+    .header__link:hover {
+      color: white;
+      transition-duration: 0.4s;
+    }
+    li:last-child a {
+      margin-right: 0;
+    }
+  }
+}

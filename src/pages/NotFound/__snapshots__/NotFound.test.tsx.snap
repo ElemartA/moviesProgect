@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotFound renders MyForm component 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+    data-testid="notFoundPage"
+  >
+    <img
+      alt="страница не найдена"
+      src="/404.png"
+    />
+  </div>
+</DocumentFragment>
+`;

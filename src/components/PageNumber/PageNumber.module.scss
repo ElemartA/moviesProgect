@@ -1,0 +1,21 @@
+@media (max-width: 1500px) {
+    .pagin {
+        max-width: 100%;
+        margin: 0 auto;
+        }
+    
+  }
+
+@media (max-width: 776px) {
+    .pagin {
+        width: 680px !important;
+    }
+    
+  }
+
+@media (max-width: 680px) {
+    .pagin {
+        width: 500px !important;
+    }
+    
+  }

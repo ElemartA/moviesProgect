@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main renders Main component 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="preloader"
+    >
+      <img
+        alt="preloader"
+        src="/preloader.svg"
+        width="50"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`api test тест компонента с асинхронной загрузкой данных с сервера 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="preloader"
+    >
+      <img
+        alt="preloader"
+        src="/preloader.svg"
+        width="50"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

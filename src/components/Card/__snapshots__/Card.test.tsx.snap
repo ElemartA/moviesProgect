@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card renders Card component 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="bg-dark text-white card"
+      data-testid="card"
+      style="margin: 10px; width: 270px; box-shadow: 0px 1px 15px 2px black;"
+    >
+      <img
+        alt="Card image"
+        class="card-img"
+        src=""
+        style="width: 268px; height: 402px;"
+      />
+      <div
+        class="block card-img-overlay"
+      >
+        <div
+          class="block__title"
+        >
+          <div
+            class="card-title h5"
+          />
+          <p
+            class="card-text"
+          >
+            Рейтинг: 0
+          </p>
+          <p
+            class="card-text"
+            data-testid="year-id"
+          >
+            Год выпуска: 
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

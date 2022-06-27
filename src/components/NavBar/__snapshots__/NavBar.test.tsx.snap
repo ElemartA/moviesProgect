@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavBar renders NavBar component 1`] = `
+<DocumentFragment>
+  <div>
+    <nav>
+      <ul
+        class="header__nav"
+      >
+        <li
+          class="header__list"
+        >
+          <a
+            class="header__link"
+            data-testid="main"
+            href="/"
+          >
+            Главная
+          </a>
+        </li>
+        <li
+          class="header__list"
+        >
+          <a
+            class="header__link"
+            data-testid="about"
+            href="/about"
+          >
+            О нас
+          </a>
+        </li>
+        <li
+          class="header__list"
+        >
+          <a
+            class="header__link"
+            data-testid="form"
+            href="/form"
+          >
+            Форма
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</DocumentFragment>
+`;

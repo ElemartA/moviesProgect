@@ -1,0 +1,6 @@
+// .breadcrumb_item {
+//     color:darkslategray;
+//     text-decoration: none;
+// }
+
+.breadcrumb>li+li:before {color: #ccc; }

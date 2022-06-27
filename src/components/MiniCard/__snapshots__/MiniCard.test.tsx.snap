@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MiniCard renders MiniCard component 1`] = `
+<DocumentFragment>
+  <div
+    class="wrap"
+    data-testid="miniCard"
+  >
+    <div />
+  </div>
+</DocumentFragment>
+`;

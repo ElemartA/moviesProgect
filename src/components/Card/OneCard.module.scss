@@ -1,0 +1,19 @@
+.block {
+  position:relative;
+  .block__title {
+    position:absolute; 
+   	bottom:0; 
+     width: 91%;
+     height: 140px;
+     background-color: rgb(68, 76, 84);
+     opacity: 0.8;
+     text-align: center;
+     margin-bottom: 5px;
+     margin-left: -4.5px;
+     
+  }
+  .block__title:hover{
+    transform: scale(1.07);
+     transition-duration: 0.4s;
+  }
+}
