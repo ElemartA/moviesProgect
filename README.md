@@ -1,4 +1,4 @@
-[**searchmoviekinopoisk**](https://searchmoviekinopoisk.netlify.app/)
+[#searchmoviekinopoisk#](https://searchmoviekinopoisk.netlify.app/)
 
 ## Available Scripts
 
